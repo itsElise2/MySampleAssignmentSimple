@@ -15,7 +15,7 @@ void head()
 }
 void face()
 {
-  arc(100,50,60,60,PI/8,7*PI/8);
+  arc(100,50,30,20,PI/8,7*PI/8);
   fill(0,0,0);
   ellipse(85,40,10,15);
   ellipse(115,40,10,15);
